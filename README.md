@@ -4,7 +4,7 @@ A **multi-screen** BMI Calculator built with [Flutter](https://flutter.dev/) and
 
 ## Features
 
-- **Multi-Screen Navigation:** Implements separate screens for input and results, ensuring a clear user flow.
+- **Multi-Screen Navigation:** Implement separate screens for input and results, ensuring a clear user flow.
 - **Intuitive UI:** Gender selection, height slider, and increment/decrement buttons for weight and age.
 - **Real-Time BMI Calculation:** Instantly computes BMI and displays health status.
 - **Responsive Design:** Consistent layout across different devices and screen sizes.

@@ -10,10 +10,9 @@ A **multi-screen** BMI Calculator built with [Flutter](https://flutter.dev/) and
 - **Responsive Design:** Consistent layout across different devices and screen sizes.
 - **Clean Architecture:** Built with Flutter and Dart, leveraging efficient state management for smooth performance.
 
-## Screenshots
-
 | BMI Calculator (Input) | BMI Calculator (Result) |
-| ![BMI Input](![WhatsApp Image 2025-03-09 at 15 49 34_046a1c72](https://github.com/user-attachments/assets/8c56cde8-d80e-4be5-a6d8-d0240c3ae89a)
-) | ![BMI Result](![WhatsApp Image 2025-03-09 at 15 49 34_534bbf6d](https://github.com/user-attachments/assets/8e76932f-4774-4bc4-819b-c191df79ff94)
+
+| ![BMI Input](![bmi_input](https://github.com/user-attachments/assets/5c392133-1e59-4785-972b-61156f34b3ea)
+) | ![BMI Result](![bmi_result](https://github.com/user-attachments/assets/71e33df2-7b31-424b-b69e-841f6cbe4ff5)
 ) |
 

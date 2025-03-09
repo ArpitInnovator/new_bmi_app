@@ -13,7 +13,6 @@ A **multi-screen** BMI Calculator built with [Flutter](https://flutter.dev/) and
 ## Screenshots
 
 | BMI Calculator (Input) | BMI Calculator (Result) |
-|------------------------|-------------------------|
 | ![BMI Input](![WhatsApp Image 2025-03-09 at 15 49 34_046a1c72](https://github.com/user-attachments/assets/8c56cde8-d80e-4be5-a6d8-d0240c3ae89a)
 ) | ![BMI Result](![WhatsApp Image 2025-03-09 at 15 49 34_534bbf6d](https://github.com/user-attachments/assets/8e76932f-4774-4bc4-819b-c191df79ff94)
 ) |

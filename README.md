@@ -8,7 +8,7 @@ A **multi-screen** BMI Calculator built with [Flutter](https://flutter.dev/) and
 - **Intuitive UI:** Gender selection, height slider, and increment/decrement buttons for weight and age.
 - **Real-Time BMI Calculation:** Instantly computes BMI and displays health status.
 - **Responsive Design:** Consistent layout across different devices and screen sizes.
-- **Clean Architecture:** Built with Flutter and Dart, leveraging efficient state management for smooth performance.
+
 
 ## Screenshots
 
